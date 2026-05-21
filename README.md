@@ -139,15 +139,17 @@ reading:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supramegod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&border_radius=8"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=supramegod&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=c9d1d9&border_radius=8"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supramegod&theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supramegod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9&langs_count=6&border_radius=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supramegod&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supramegod&theme=github_dark"/>
 
 </div>
 
@@ -205,6 +207,10 @@ $ cat /home/jalu/.quote
 &nbsp;&nbsp;
 <a href="mailto:jluppradipta728@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-jluppradipta728-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/jluppradipta_728/">
+  <img src="https://img.shields.io/badge/Instagram-jluppradipta__728-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
