@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu] 👋 
+# Hi there, I'm Jalu 👋 
 
 ### 🚀 Backend Developer | Building Scalable Systems & High-Performance APIs
 
